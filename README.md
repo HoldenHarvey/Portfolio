@@ -7,6 +7,8 @@ this portfolio was designed by me, Holden Harvey, to show off my web development
 Here is a screenshot of the finished webpage, as well as a link to the page.
 ![alt text](assets/screenshot.png)
 
+https://holdenharvey.github.io/Portfolio/
+
 ## License
 
 As listed in the LICENSE document, this website uses an MIT liscence.
